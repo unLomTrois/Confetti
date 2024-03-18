@@ -1,5 +1,9 @@
 # Confetti = ComfyUI + RenPy
 
+## Preview
+
+https://github.com/unLomTrois/Confetti/assets/51882489/50564d5c-593f-46e5-a594-5fc93f607ffd
+
 ## What is it?
 
 It is a Python script to connect your RenPy visual novels to Stable Diffusion via ComfyUI workflows
@@ -31,3 +35,4 @@ pip install --target game/python-packages websocket-client
 - [ ] Publish this package in PyPi
 - [ ] Add support for LMStudio API (so it could generate text as well)
 - [ ] Add a map generator
+
