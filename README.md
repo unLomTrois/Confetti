@@ -25,6 +25,7 @@ pip install --target game/python-packages websocket-client
 ## Todo
 
 - [x] Proof of Concept
+- [x] Add notifications
 - [ ] Add support for batches (save multiple images from a single workflow)
 - [ ] Improve the script, remove outdated methods
 - [ ] Publish this package in PyPi
