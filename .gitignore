@@ -1,0 +1,9 @@
+# editor
+.vscode
+
+# renpy
+game/cache
+game/saves
+
+# python
+*.rpyc
