@@ -4,6 +4,7 @@
 # renpy
 game/cache
 game/saves
+log.txt
 
 # python
 *.rpyc
