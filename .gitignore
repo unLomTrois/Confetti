@@ -5,6 +5,9 @@
 game/cache
 game/saves
 log.txt
+traceback.txt
+game/images
 
 # python
 *.rpyc
+game/python-packages
