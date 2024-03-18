@@ -22,3 +22,11 @@ So you need to pack this package in your game:
 ```sh
 pip install --target game/python-packages websocket-client
 ```
+## Todo
+
+- [x] Proof of Concept
+- [ ] Add support for batches (save multiple images from a single workflow)
+- [ ] Improve the script, remove outdated methods
+- [ ] Publish this package in PyPi
+- [ ] Add support for LMStudio API (so it could generate text as well)
+- [ ] Add a map generator
